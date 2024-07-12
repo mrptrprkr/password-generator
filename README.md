@@ -1,7 +1,5 @@
 ## Password Generator
 
-This is the solution to the password generator project.
-
 
 # Instructions
 
